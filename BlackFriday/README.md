@@ -8,3 +8,8 @@ They have shared purchase summary of various customers for selected high volume 
 
 Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
+### About this data
+The collected data has been stored in the two excel file train and test data. With test data missing the purchase column.
+
+Dataset link : https://www.kaggle.com/datasets/sdolezel/black-friday?select=train.csv
+
